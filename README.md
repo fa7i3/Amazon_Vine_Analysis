@@ -1,11 +1,14 @@
 # Amazon_Vine_Analysis
 # Overview
+Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide Amazon Vine members with programs, and in return they publish a review on the products. I analyzed the Outdoor dataset to see if there was any bias towards good reviews from Vine members. I used PySpark to perform the ETL process, transform the data, connected to an AWS RDS instance, and loaded the transformed data into pgAdmin.
+
 # Software Used
 * Google Colab
 * pgAdmin
 * AWS (S3 Buckets; RDS Databases)
 
 * Dataset used:
+
 [Amazon Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 # Results
 I used Amazon Web Services (AWS) to retrieve the data into our Postgres Database.
