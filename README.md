@@ -1,6 +1,9 @@
 # Amazon_Vine_Analysis
 # Overview
 # Software Used
+* Google Colab
+* pgAdmin
+* AWS (S3 Buckets; RDS Databases)
 # Results
 I used Amazon Web Services (AWS) to retrieve the data into our Postgres Database.
 * How many Vine reviews and non-Vine reviews were there?
