@@ -6,7 +6,7 @@
 * AWS (S3 Buckets; RDS Databases)
 
 * Dataset used:
-[Amazon Review Dataset] https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt 
+[Amazon Review Dataset] [https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt]
 # Results
 I used Amazon Web Services (AWS) to retrieve the data into our Postgres Database.
 * How many Vine reviews and non-Vine reviews were there?
