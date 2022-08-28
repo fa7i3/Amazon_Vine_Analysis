@@ -30,4 +30,5 @@ According to the dataframe below, the percentage of Vine reviews with 5 stars (f
 ![question 3a](https://user-images.githubusercontent.com/104453593/187064944-c66df4b2-9fb4-4505-bdcb-eb822c8a8c2a.PNG)
 
 # Summary
-According to the percentages of 5-star reviews for both Vine and non-Vine members, it is safe to say that there is no positivity bias towards favourable reviews in the vine program. The calculated results show that the 5-star reviews from Vine members was 52.336448598130836% (52.34%) and the 5-star reviews from non-Vine members was 52.68504351751988 (52.69%). The 5-star reviews from non-Vine memebers was slightly higher than the 5-star reviews of Vine members, but not significant.
+According to the percentages of 5-star reviews for both Vine and non-Vine members, it is safe to say that there is no positivity bias towards favourable reviews in the vine program. The calculated results show that the 5-star reviews from Vine members was 52.336448598130836% (52.34%) and the 5-star reviews from non-Vine members was 52.68504351751988 (52.69%). The 5-star reviews from non-Vine members was slightly higher than the 5-star reviews of Vine members, but not significant.
+An additional analysis that can be down is to calculate the measures of central tendency (mean, meidan, and mode) of the star_rating variable. 
